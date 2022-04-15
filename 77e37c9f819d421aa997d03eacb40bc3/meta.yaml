@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/noahengmann/Documents/Uni/Semester_4/data_exploration_project/mlruns/4/77e37c9f819d421aa997d03eacb40bc3/artifacts
+end_time: 1648130577405
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+name: ''
+run_id: 77e37c9f819d421aa997d03eacb40bc3
+run_uuid: 77e37c9f819d421aa997d03eacb40bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1648130571848
+status: 3
+tags: []
+user_id: noahengmann
